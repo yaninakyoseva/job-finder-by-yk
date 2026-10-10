@@ -1,0 +1,1 @@
+- [x] Job board with list, categories, add/edit/delete popups, search/filter/sort, detail view
